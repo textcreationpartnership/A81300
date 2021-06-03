@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle recommended to all the prisons in this city &amp; nation. To such as chuse restraint rather than the violation of their consciences. Wherein is asserted, 1. The lawfulness of an oath. 2. The antiquity of an oath. 3. The universality of it. With the most material objections answered. By Henry Den.</title>
+            <author>Denne, Henry, 1606 or 7-1660?</author>
+         </titleStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81300</idno><idno type="EEBO-CITATION">99866917</idno>
+  <idno type="VID">119205</idno>
+  <idno type="EEBO-PROQUEST">2240945914</idno>
+  
+            <idno type="STC">Wing D1020</idno>
+            <idno type="STC">Thomason E1081_1</idno>
+            <idno type="STC">ESTC R207898</idno>
+            <idno type="PROQUEST">99866917</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866917e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119205)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1081[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle recommended to all the prisons in this city &amp; nation. To such as chuse restraint rather than the violation of their consciences. Wherein is asserted, 1. The lawfulness of an oath. 2. The antiquity of an oath. 3. The universality of it. With the most material objections answered. By Henry Den.</title>
+                  <author>Denne, Henry, 1606 or 7-1660?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Smith, at the Elephant and Castle near Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 5", "Feb: 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Oaths --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119205:1"/>
+            <p>AN EPISTLE Recommended to all the PRISONS IN This City &amp; Nation.</p>
+            <p>To such as chuse Restraint rather than the Vio<g ref="char:EOLhyphen"/>lation of their Consciences.</p>
+            <p>Wherein is asserted,
+<list>
+                  <item>1. The Lawfulness of an Oath.</item>
+                  <item>2. The Antiquity of an Oath.</item>
+                  <item>3. The Universality of it.</item>
+               </list> With the most Material Objections Answered.</p>
+            <p>BY <hi>HENRY DEN.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Smith,</hi> at the <hi>Elephant</hi> and <hi>Castle</hi> near Temple-Bar, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:119205:2"/>
+            <head>
+               <hi>TO ALL</hi> That are in Prison in any place, who have chosen <hi>Re<g ref="char:EOLhyphen"/>straint,</hi> rather than the <hi>Violation of their Consciences:</hi> Grace, Peace, and Knowledge be multiplyed.</head>
+            <p>THe sad consideration of the deplorable condition of the times, occasioned by that unparallel'd fantastical wic<g ref="char:EOLhyphen"/>kedness, of those bloody Murderers and Traitors; who have so highly prophaned the sacred Name of the Lord Jesus Christ, whereby they have not onely brought upon themselves swift destruction, (according to their just deserts) but have given some occasion to the Ministers of justice (whether groundless or not, the Lord is witness) to fly with great force upon thousands of people professing godliness, and living peace<g ref="char:EOLhyphen"/>ably and quietly, and have driven them by droves into Prison; insomuch as (<hi>England</hi> never saw the like) the Prisons in Cities and Countreys are so full, that there is hardly any more room. And since the innocency of these persons appeareth many wayes, as well by the confession of the dying offenders, as their own Protestations, and the confession of the men that would be glad to find occasion against them; but are not able, neither will they in any thing, save pertaining to the worship of God; yet are they kept in Bonds as with a snare; which at this day holds them in, and shuts the Prison doors upon them, in that they are taught, <hi>That it is not lawful upon any occasion, or before any person to take an Oath.</hi> Insomuch that when the Oath of Allegiance unto our Lord the King, is tendred unto many who are at liberty, they ra<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:119205:2"/>chuse imprisonment than to take that Oath; and many who are in prison, and have liberty proffered upon condition of taking the Oath, do rather continue there, than purchase their liberty with Swearing.</p>
+            <p>Now that I may prevent the impendent evil consequences necessarily following, I shall labour to prove unto you the <hi>Law<g ref="char:EOLhyphen"/>fulness of an Oath in a serious and weighty matter, which cannot other<g ref="char:EOLhyphen"/>wise be determined.</hi>
+            </p>
+            <p>And in the next place, I shall answer those Objections, which are the Pillars to uphold the negative part.</p>
+            <p>First for the Lawfulness of an <hi>Oath,</hi> which is nothing else <hi>but a religious promise made in the presence of the living God, whom we call to Witness the truth of our words.</hi>
+            </p>
+            <p>That this may appear to us to be lawful; Consider, First the Antiquity of such a practice: And Secondly, the Universality of it.</p>
+            <p>For the Antiquity of it; Although I cannot say that the practice is as old as the Moon; yet I have cause to conjecture that is not above 300 years younger: And if I should affirm that the Text of the fourth of <hi>Gen.</hi> verse 26. <hi>Then began men to call upon the Name of the Lord,</hi> had reference to the taking the name of God to witness in and by an Oath.</p>
+            <p>I might peradventure seem to be very bold, yet <hi>I</hi> am sure it is as probable an interpretation as any hath yet been given.</p>
+            <p>Indeed what the old World did in this case, the Scriptures do not speak plainly; and therefore <hi>I</hi> will pass it by: not hearing what the Heathen have written in the Catalogue of the sins of the old World. But after the Flood we finde in <hi>Abrahams</hi> time, that it was an usual thing between man and man, <hi>Gen.</hi> 14.22. <hi>I have lift up mine hand unto the Lord, the most High God, the Possessor of Heaven and Earth, that I will not take from a Thred, &amp;c.</hi> That is, <hi>I</hi> have sworn to the most High God; because the Ceremony of lifting up the hand was used in swearing.</p>
+            <p>If this be not plain enough, read <hi>Gen.</hi> 21.23, 24. <hi>Now there<g ref="char:EOLhyphen"/>fore swear unto me here by God, that thou wilt not deal falsly with me, &amp;c. And</hi> Abraham <hi>said, I will swear:</hi> And in the same Chapter, Verse 31. <hi>He called that place</hi> Beer-sheba: (<hi>which is</hi> by interpre<g ref="char:EOLhyphen"/>tation, <hi>The Well of an Oath</hi>) for there they sware both of them.</p>
+            <pb n="4" facs="tcp:119205:3"/>
+            <p>You see the practice may justly plead Antiquity.</p>
+            <p>The next thing considerable, is the Universality of this pra<g ref="char:EOLhyphen"/>ctice: In which we must consider the Universality of <hi>Persons, Places, Times.</hi>
+            </p>
+            <p>First for Persons, we find that God himself swears to man: <hi>By my self have I sworn saith the Lord, That in Blessing, I will bless thee: Gen.</hi> 14.22. <hi>Heb,</hi> 6.13. Again, <hi>Psal.</hi> 110.4. <hi>Heb.</hi> 7.21. <hi>The Lord sware, and will not repent: Thou art a Priest for ever, after the order of Melchisedeck,</hi> And in another <hi>Psalm</hi> 132.11. <hi>The Lord hath sworn in truth unto David.</hi> And in another place, <hi>Psalm</hi> 89.35. <hi>Once have I sworn by my holiness, that I will not lye unto David.</hi>
+            </p>
+            <p>Many other places may be alledged, as <hi>Ezek.</hi> 18. <hi>Luke.</hi> 2. <hi>&amp;c.</hi> Sometimes God swears against men for their sins, <hi>Psal.</hi> 95 11. <hi>Heb.</hi> 3.11. <hi>I sware in my wrath, that they shall not enter into my rest.</hi> What shall we now say to this? Can that be accounted an evil (if not easily undertaken) whereof we have the Lord for a President.</p>
+            <p>Secondly, An Angel swears, <hi>Rev.</hi> 10.5, 6. <hi>The Angel lifted up his hand to Heaven, and sware by him that liveth for ever and ever.</hi> Come we to the earth, if the <hi>Verily, verily</hi> of the Son of God and our Redeemer, should not amount to so much as a Oath, as some think; yet is it more than a bare <hi>yea</hi> or <hi>nay:</hi> We shall find Kings and Princes, Priests and Prophets, righteous and holy men upon just occasions calling God to witness, and yet without Blame: and that at all times <hi>before the Law Abraham, Isaac, Ja<g ref="char:EOLhyphen"/>cob,</hi> &amp;c. <hi>under the Law.</hi> It is warranted, not onely by practice, but by precept also, <hi>Deut.</hi> 6.13. <hi>Thou shalt fear the Lord thy God, and serve him, and shalt swear by his Name.</hi>
+            </p>
+            <p>It is also confirmed by Prophecies, that it should be so at the time when God shall cause <hi>Jacob</hi> and <hi>Judah</hi> to forget their trou<g ref="char:EOLhyphen"/>bles. <hi>Esay</hi> 65.16. <hi>He that sweareth in the earth, shall swear by the God of truth; because the former troubles are forgotten</hi> &amp;c. <hi>Af<g ref="char:EOLhyphen"/>ter the Law,</hi> Receive the testimony. <hi>Heb.</hi> 6.16. <hi>Men verily do swear by the greater, and an oath for confirmation is to them an end of all strife. I</hi> have written, <hi>do swear,</hi> because the Greek Cop<g ref="char:EOLhyphen"/>py reads <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the present tense; and the rather <hi>I</hi> note it, in regard that one of the Auditors did assure me that one (who la<g ref="char:EOLhyphen"/>boured
+<pb n="5" facs="tcp:119205:3"/>to perswade men against all swearing) did tell his Hearers that it ought to be read, <hi>did swear:</hi> and <hi>was</hi> a confirmation, not <hi>is</hi> a confirmation: But how true this is, they who have but little knowledge in the Greek are able to judge: <hi>I</hi> desire men would be very warie what they say and affirm in such weighty cases as this.</p>
+            <p>And further, some have noted it as frequent with the Apostle <hi>Paul</hi> in serious matters, to use such expressions as are equal to an Oath: as <hi>Rom.</hi> 1.9. <hi>God is my witness whom I serve, &amp;c.</hi> with many more of the like nature, which are well known unto you.</p>
+            <p>
+               <hi>I</hi> will add one thing more, which is the use of an oath in <hi>all Nations</hi> whatsoever, whether <hi>Jews</hi> or <hi>Gentiles, Greeks,</hi> or <hi>Barba<g ref="char:EOLhyphen"/>rians:</hi> between <hi>Princes</hi> and <hi>Subjects, Enemies</hi> and <hi>Friends,</hi> for the reconciling differences, ending of controversies, assurance of faith one towards the other. This appears among the <hi>Greeks,</hi> by several unquestionable Authors and authentick Records; amongst the <hi>Romans</hi> by the Lawes of the Twelve Tables, amongst all o<g ref="char:EOLhyphen"/>ther Nations under Heaven, by sufficient evidence and demon<g ref="char:EOLhyphen"/>stration; which is able to put it out of all doubt.</p>
+            <p>Now how great is this Authority? Namely, The consent of all Nations: it is doubtless a demonstration of the <hi>second rate</hi> at least: Some there are who account it of the <hi>first rate,</hi> viz: That the consent of Nations is to be taken for Divine evidence, and in many things we do so take it. What doth it speak less than that the taking of an Oath is one of the dictates written and en<g ref="char:EOLhyphen"/>graven in the heart of man by Natures finger: Seeing that there is no Nation so barbarous, but doth acknowledge the solemn and Religious use of an Oath in calling their God to witness; which considered, <hi>I</hi> have sometimes wondred why the people that are distinguished by the name of <hi>Quakers</hi> should say that the Light within them teacheth them to deny an Oath; when as we see that that Light which is Universal, teacheth all the Nations of the earth the contrary.</p>
+            <p>Now how can that thing be accounted evil, which is approved by all Nations? Recollect your thoughts and consider, whether you can give me one instance of any one evil which hath been al<g ref="char:EOLhyphen"/>lowed, and approved by all Nations; if you cannot, then it will be a sufficient demonstration that the taking of an Oath is no
+<pb n="6" facs="tcp:119205:4"/>thing simply evil: Why should you think it unlawful to swear when the Consent of Nations, the examples of Prophets, and Kings, and Righteous men of old, and in a continued <hi>series,</hi> for the most part, until this time; when the example of An<g ref="char:EOLhyphen"/>gels, yea of Almighty God himself stand all at your right hand: What one Practise is there that you have more, and greater Evi<g ref="char:EOLhyphen"/>dence for, then for this thing?</p>
+            <p>But now you will say that Jesus Christ the Mediator of the New Convenant, the great Law-giver, who is King of kings, and Lord of lords, hath forbidden us; first by his own mouth, Matth. 5.34. <hi>Swear not at all, neither by Heaven, &amp;c.</hi> Secondly, by the mouth of his Apostle, <hi>James</hi> 5.12. <hi>Above all things, my Brethren, Swear not, neither by Heaven, neither by the Earth, nei<g ref="char:EOLhyphen"/>ther by any other Oath; but let your Yea be yea, and your Nay, nay, lest ye fall into comdemnation.</hi>
+            </p>
+            <p>Therefore though it were lawful in former times to swear, yet is it unlawful to us now; having received a Countermand from the Lord <hi>Jesus Christ.</hi>
+            </p>
+            <p>Have Patience, I entreat you, while I take liberty to exa<g ref="char:EOLhyphen"/>mine your Grounds, and to weigh them in the ballance of the Sanctuary: And First, to our Saviours own Prohibition, <hi>Swear not at all.</hi> That which I bring in Answer to this, is an Exception against the <hi>Translation.</hi> The Greek word rendred <hi>at all,</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: which signifieth <hi>wholly,</hi> or <hi>altogether;</hi> rather then <hi>at all.</hi> So that in the proper Speech it should be read, <hi>Swear not wholly,</hi> or <hi>alto<g ref="char:EOLhyphen"/>gether:</hi> Let not your whole Communication be interwoven with Oaths.</p>
+            <p>That <hi>I</hi> may shew you what warrant <hi>I</hi> have for this <hi>Interpreta<g ref="char:EOLhyphen"/>tion, I</hi> intreat you to Consider Three Places of Scripture, where the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is used: for <hi>I</hi> do not find it oftener in the New Testament.</p>
+            <p>The First is, 1 <hi>Cor.</hi> 5.1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is interpreted, <hi>Fornication is reported commonly among you:</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is here translated, <hi>commonly, ordinarily,</hi> or <hi>frequently;</hi> and it can have no other sense; For if it should be translated here by the word <hi>at all,</hi> it would be <hi>sound</hi> without <hi>sense.</hi> If <hi>I</hi> may take the liberty then to translate it so in the <hi>Text</hi> you have alleadged, then it will run thus, <hi>Swear not commonly, ordinarily,</hi> or <hi>fre<g ref="char:EOLhyphen"/>quently;</hi>
+               <pb n="7" facs="tcp:119205:4"/>and you see <hi>I</hi> have good Authority for what <hi>I</hi> have done.</p>
+            <p>Consider a Second Place, 1 <hi>Cor.</hi> 6.7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; Now if this should be read, there is <hi>at all a fault in you;</hi> What sense is there in these words? But if <hi>I</hi> read them thus, there is <hi>wholly, altogether, commonly, frequently, ordinarily a fault in you,</hi> the sense will be good, &amp; the <hi>analogy</hi> of the <hi>scripture</hi> not injured.</p>
+            <p>A Third <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lace is, 1 <hi>Cor.</hi> 15.29. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: where <hi>I</hi> confess the word bears good sense if we read it according to the <hi>English</hi> translation; <hi>If the Dead rise not at all:</hi> yet I ap<g ref="char:EOLhyphen"/>peal to all, Whether it be not better, and nearer to the Scope of the place, if we should read it thus, <hi>If the Dead rise not whol<g ref="char:EOLhyphen"/>ly, fully, or compleatly:</hi> You see therefore that the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is very well translated <hi>frequently, commonly, wholly, or altoge<g ref="char:EOLhyphen"/>ther.</hi> And <hi>I</hi> have one thing more to adde for the Justification of such a translation of the <hi>Text</hi> by you alleadged out of <hi>Mat.</hi> 5. that it ought to be read, <hi>Swear not ordinarily,</hi> or <hi>commonly:</hi> It is concluded by the Ancients, that the Gospel of <hi>Matthew</hi> was Written in the <hi>Hebrew</hi> Tongue: <hi>Hierom</hi> affirms it more then ten times, and cites the <hi>Hebrew Text. Eusebius</hi> saith the same, that he wrote his Gospel in his own Country Language: He cites the same out of <hi>Papia,</hi> St. <hi>John</hi>'s Auditor; and out of <hi>Irenaeus,</hi> who was the Schollar of <hi>Polycarpus;</hi> who was the Schol<g ref="char:EOLhyphen"/>lar of St. <hi>John,</hi> and the rest of the Apostles. Many other wit<g ref="char:EOLhyphen"/>nesses we have: Now <hi>I</hi> have Consulted the <hi>Hebrew</hi> Copy which we have received from the hands of <hi>Sebastian Munster,</hi> which he saith he Redeemed out of the Hands of the <hi>Jewes;</hi> which if it be not that that was written by the Evangelist him<g ref="char:EOLhyphen"/>self, yet it must be granted to be a thing of great Antiquity and deserving Credit with us in such a Case as this is; Now the <hi>Hebrew Text</hi> reads it thus, <hi>Be-col-derek;</hi> which is Englished in every way; <hi>Swear not in every way.</hi> Thus you see your First Pillar stands upon a doubtful, nay unwarrantable <hi>Interpretation:</hi> And it appears to be the aim of our Saviour, not to forbid solemn Oaths before the Magistrate, &amp;c. between man and man, upon grave and mature Deliberation, but only to put to stop to Com<g ref="char:EOLhyphen"/>mon, and frequent, light, and trivial Swearing.</p>
+            <p>To your second ground out of <hi>James</hi> 5. <hi>Above all things swear not: I</hi> do appeal to the judgement of any rational man, whether
+<pb n="8" facs="tcp:119205:5"/>skilful, or unskilful in Languages, whether this have the sound of a true interpretation; Above all things is it worse to swear, than to commit Adultery? than to kill the King, who is our Political Father, to kill father or mother; <hi>I</hi> know you will not say it.</p>
+            <p>But how then doth the Text say, <hi>Above all things swear not?</hi> If you ask how <hi>I</hi> will read it; <hi>I</hi> answer, The Greek is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which signifies <hi>before all things;</hi> not above all things: My War<g ref="char:EOLhyphen"/>rant for this is, not onely the consent of the <hi>Vulgar, Erasmus, Beza,</hi> in the Latin Translations, who do all agree to translate it <hi>ante omnia:</hi> but also the comparison of other places, where the same Phrase is used; as <hi>Rom.</hi> 16.7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>which were in Christ before me.</hi>
+            </p>
+            <p>Also <hi>Col.</hi> 1.17. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is well translated; <hi>He is before all things:</hi> Many other of like nature may be alledged, but these shall sustice.</p>
+            <p>All these things considered, the ground appears not to be so sure, as it was fancied. If the <hi>Quaker</hi> say, the Light within for<g ref="char:EOLhyphen"/>bideth him to swear, the consent of Nations confuteth him; if others plead the Scriptures, you see how weak it is which they say. Therefore let such as suffer in this case beware, lest they hear, Who hath required these things of you? Christ indeed for<g ref="char:EOLhyphen"/>bids those exorbitant and extravagant Oaths, whereof now the streets and houses are full; a sad presage of some judgement at hand; it was hoped by some that his Majesties Proclamation would have restrained such debauchery: But alas it is nothing so, for such men reverence His Majesty no more, than the Wolf in Fable did St. <hi>Anthony:</hi> And indeed how can it be expected, that they who fear not God, should regard the Kings Majesty; who is but as the drop of rain in comparison of him.</p>
+            <p>What times do we behold! Nothing but extreams are present<g ref="char:EOLhyphen"/>ed to our eyes and ears: Some do little but swear, others will not swear at all: Some fill their mouths with direful execrations, upon every trifle; others will not yield to swear when weighty causes do vehemently urge them.</p>
+            <p>Who shall heal these distempers? Surely none can do it with<g ref="char:EOLhyphen"/>out the mighty Power of God break forth in your consciences: To whose grace <hi>I</hi> commend this work, and resolve to remain,</p>
+            <closer>
+               <signed>Your Friend, <hi>H. D.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
